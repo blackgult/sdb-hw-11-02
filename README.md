@@ -28,7 +28,7 @@
 
 ### Решение 2
 
-
+![2-1](https://github.com/blackgult/sdb-hw-11-02/blob/main/2-1.PNG)
 
 ---
 
