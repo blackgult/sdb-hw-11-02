@@ -54,7 +54,7 @@
 
 Два моих ключа: key1 и key2
 
-![3-1](https://github.com/blackgult/sdb-hw-11-02/blob/main/3-1.PNG)
+![3-2](https://github.com/blackgult/sdb-hw-11-02/blob/main/3-2.PNG)
 
 ---
 
