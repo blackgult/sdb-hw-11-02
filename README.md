@@ -1,6 +1,5 @@
 # Домашнее задание к занятию «Кеширование Redis/memcached» - Михайлов Дмитрий
 
-![1-1](https://github.com/blackgult/sdb-hw-11-02/blob/main/1-1.PNG)
 
 ---
 
